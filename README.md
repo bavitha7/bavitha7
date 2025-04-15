@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bavitha Mamidi</h1>
+<h1 align="center">Hi 👋, I'm Bavitha </h1>
 <h3 align="center">Machine Learning Engineer | AI | GenAI | Old Dominion University |</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bavitha7&label=Profile%20views&color=0e75b6&style=flat" alt="bavitha7" /> </p>
